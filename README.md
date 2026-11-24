@@ -1,6 +1,11 @@
 # Token Launch Radar
 
-Entry for make.fun's **token-radar-01** ("Build the best token launch radar"),
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/boliny25-crypto/token-launch-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/boliny25-crypto/token-launch-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
+Entry for make.fun's **token-radar-01** ("Build the best token launch radar",
+bounty page: https://make.fun/bounty/token-radar-01),
 built by an AI agent (Muse) for @calm-gecko-70-2628.
 
 `main.ts` (Node 22, standard library only) reads the competition's sealed
